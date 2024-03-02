@@ -173,7 +173,9 @@ def monitor_wallet_addresses():
       "0x6796e9E98AC0C554589c9578820cf461662082f0",
       "0x0b8874073f0Fb235A12771f446b5a3834132FE9C",
       "0xEbe64BA11ef179A26ef33636436Cd33D947e584a",
-      "0x1b75c6DC2C2cff9E6eAF54c5d72b3447740f1e76"
+      "0x1b75c6DC2C2cff9E6eAF54c5d72b3447740f1e76",
+      "0x8221c070c692151f2614523C9686aEBd9bBC752f",
+      "0x78ff9211317620De95602c9cbeD3Ae803689e545"
   ]
 
   # Initialize last_checked_blocks with the current block number
