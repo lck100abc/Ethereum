@@ -15,6 +15,7 @@ Github Directory: cd ethtxnxplorerpublic
 Run the script: python public1.py
 
 Editng: 
+Nano
 Stop process: kill PID
 Update from github: git pull origin main
 Reboot: sudo reboot
