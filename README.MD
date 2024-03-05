@@ -23,3 +23,25 @@ Check status of screen session: screen -r etherbot
 Inspect the program: ps aux | grep python
 Review logs: dmesg | tail
 
+
+Starting Up: 
+
+Create a directory: mkdir "name"
+Finding directory: ls "name"
+Go to directory: cd "name"
+
+Update packages: sudo apt update sudo apt upgrade
+Install pip: sudo apt install python3-pip
+Virtual environment packages: sudo apt install python3-venv python3-full
+
+Create virtual environment: python -m "name"
+Start virtual environment: source "name"/bin/activate
+
+Create nohup restart bot: nano name.sh
+Set file permissions: chmod +x name.sh
+Start program: nohup ./name.sh &
+
+Start a new screen session: screen -S "name"
+Install pip: sudo apt install python3-pip
+Install telpot: pip3 install telepot
+
