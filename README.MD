@@ -40,6 +40,7 @@ Start virtual environment: source "name"/bin/activate
 Create nohup restart bot: nano name.sh
 Set file permissions: chmod +x name.sh
 Start program: nohup ./name.sh &
+Find processes: ps aux | grep python
 
 Start a new screen session: screen -S "name"
 Install pip: sudo apt install python3-pip
